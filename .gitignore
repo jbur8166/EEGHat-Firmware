@@ -1,0 +1,21 @@
+# Build outputs
+Output/
+_build/
+*.o
+*.hex
+*.bin
+*.map
+
+# SES / J-Link cruft
+*.jlink
+*.jdbg
+*.emSession
+
+# Logs / temp
+*.log
+*.tmp
+
+# VS Code, etc.
+.vscode/
+.idea/
+*.user
